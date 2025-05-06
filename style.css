@@ -1,5 +1,11 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    text-align: center;
+}
+
 header{
-    background-color: black;
+    background-color: darkred;
 }
 
 nav{
