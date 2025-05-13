@@ -2,9 +2,7 @@
     margin: 0;
     font-family: Arial;
     text-align: center;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    
 }
 
 header{
@@ -14,13 +12,6 @@ header{
 nav{
     background-color: rgb(0, 0, 0);
     padding: 20%;
-}
-
-body {
-  font-family: Arial;
-  font-size: 20px;
-  color: #333;
-  background-color: #f5f5f5;
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -39,22 +30,14 @@ button{
 button:hover {
   background-color: #b92929;
 }
+
 .box {
   background: white;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
-.container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
+
 a {
   color: #8b0000;
   text-decoration: none;
