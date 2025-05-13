@@ -8,7 +8,7 @@
 }
 
 header{
-    background-color: darkred;
+    background-color: #8b0000;
 }
 
 nav{
@@ -55,7 +55,7 @@ img {
   align-items: center;
 }
 a {
-  color: #3498db;
+  color: #8b0000;
   text-decoration: none;
 }
 
